@@ -1,1 +1,24 @@
-# Biomechanics-Projects
+# Biomechanics Projects
+
+Welcome to my portfolio. This repository highlights the practical projects in computational bioengineering, bioimage processing, and mechanical modeling.
+
+---
+
+## Project 1: Fluorescent Cell Morphometric Analysis
+
+### Overview
+This project establishes an automated image analysis to quantify cell morphology metrics, specifically area and circularity, from fluorescence microscopy data. 
+
+### Tools Used
+* **ImageJ / Fiji:** Image segmentation, thresholding, watershedding, and feature extraction.
+* **MATLAB:** Statistical processing and automated histogram generation.
+
+###  Results & Visualization
+Below is the statistical distribution of cell area and circularity extracted via `Analyze_Cells.m`:
+
+![Cell Morphometry Analysis](01-cell-morphology/matlab_cell_analysis.png)
+
+###  Repository Structure
+* `01-cell-morphology/Cell_Measurements.csv`: Morphometric features exported from ImageJ.
+* `01-cell-morphology/Analyze_Cells.m`: MATLAB script for parsing CSV data and rendering summary figures.
+* `01-cell-morphology/matlab_cell_analysis.png`: Output figure.
