@@ -10,7 +10,7 @@ Welcome to my portfolio. This repository highlights the practical projects in co
 This project establishes an automated image analysis to quantify cell morphology metrics, specifically area and circularity, from fluorescence microscopy data. 
 
 ### Tools Used
-* **ImageJ / Fiji:** Image segmentation, thresholding, watershedding, and feature extraction.
+* **ImageJ:** Image segmentation, thresholding, watershedding, and feature extraction.
 * **MATLAB:** Statistical processing and automated histogram generation.
 
 ###  Results & Visualization
