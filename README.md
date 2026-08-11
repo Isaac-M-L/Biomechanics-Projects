@@ -18,12 +18,6 @@ Below is the statistical distribution of cell area and circularity extracted via
 
 ![Cell Morphometry Analysis](https://github.com/Isaac-M-L/Biomechanics-Projects/blob/main/01-Cell%20Morphology/matlab_cell_analysis.png)
 
-###  Repository Structure
-* `01-cell Morphology/Cell_Measurements.csv`: Morphometric features exported from ImageJ.
-* `01-cell Morphology/Drawing of C3-FluorescentCells.png`: Subject figure of analysis from ImageJ.
-* `01-cell Morphology/Analyze_Cells.m`: MATLAB script for parsing CSV data and rendering summary figures.
-* `01-cell Morphology/matlab_cell_analysis.png`: Output figure.
-
 ---
 
 ## Project 2: FEA Simulation: Cartilage Plug Unconfined Compression
