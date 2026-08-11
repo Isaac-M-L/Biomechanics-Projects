@@ -100,7 +100,7 @@ Sarcomere Length ($L$) | Kinematic State | Mathematical Model ($F / F_0$) | Biom
 ### 2. Passive Elastic Force ($F_{\text{Passive}}$)
 Passive tension resists excessive sarcomere stretch to prevent structural tearing. It is modelled as an exponential spring representing the elasticity of **titin**:
 
-$$\text{Strain } (\varepsilon) = \frac{L - L_{\text{opt\_max}}}{L_{\text{opt\_max}}} \quad \text{for } L > L_{\text{opt\_max}}$$
+$$\text{Strain } (\varepsilon) = \frac{L - L_{\text{opt,max}}}{L_{\text{opt,max}}} \quad \text{for } L > L_{\text{opt,max}}$$
 
 $$F_{\text{Passive}} = 0.05 \times \left(e^{k \cdot \varepsilon} - 1\right) \quad \text{where } k = 3.5$$
 
