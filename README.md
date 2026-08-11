@@ -51,11 +51,11 @@ This project evaluates the distribution of effective stress during the compressi
 ## Results and Analysis
 
 ### 1. 3D Effective Stress Contour Map
-[3D Effective Stress Contour](https://github.com/Isaac-M-L/Biomechanics-Projects/blob/main/02-Cartilage-fea/Media%3A/Stress_Contour.png)
+![3D Effective Stress Contour](https://github.com/Isaac-M-L/Biomechanics-Projects/blob/main/02-Cartilage-fea/Media%3A/Stress_Contour.png)
 *Figure 1: Deformed mesh displaying effective (von Mises) stress distribution at 10% nominal strain.*
 
 ### 2. Quantitative Stress Response
-[Summary of Effective Stress](https://github.com/Isaac-M-L/Biomechanics-Projects/blob/main/02-Cartilage-fea/Media%3A/Stress_vs_Time_Summary.png)
+![Summary of Effective Stress](https://github.com/Isaac-M-L/Biomechanics-Projects/blob/main/02-Cartilage-fea/Media%3A/Stress_vs_Time_Summary.png)
 *Figure 2: Statistical summary (Max, Avg, Min) of effective stress across the loading surface over time/strain steps.*
 
 #### Quantitative Findings:
@@ -115,7 +115,7 @@ $$F_{\text{Total}} = F_{\text{Active}} + F_{\text{Passive}}$$
 
 ## Results & Visualization
 
-[Sarcomere Force-Length Relationship](https://github.com/Isaac-M-L/Biomechanics-Projects/blob/main/03-sarcomere-kinematics/Sarcomere_Force_Length.png)
+![Sarcomere Force-Length Relationship](https://github.com/Isaac-M-L/Biomechanics-Projects/blob/main/03-sarcomere-kinematics/Sarcomere_Force_Length.png)
 
 ### Key Observations:
 1. **Isometric Plateau ($2.00 - 2.25\ \mu\text{m}$):** Peak normalized active force ($F/F_0 = 1.0$) is sustained across a $0.25\ \mu\text{m}$ range corresponding to the width of the central myosin bare zone.
