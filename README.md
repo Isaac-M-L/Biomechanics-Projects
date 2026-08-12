@@ -13,7 +13,7 @@ A curated collection of computational biomechanics projects covering **bioimage 
 
 | Project | Domain | Tools & Languages | Key Deliverable |
 | :--- | :--- | :--- | :--- |
-| [**01. Fluorescent Cell Morphometry**](./01-Cell-Morphology) | Bioimaging | ImageJ / Fiji, MATLAB | Automated cell segmentation pipeline, circularity & area distribution modeling |
+| [**01. Fluorescent Cell Morphometry**](https://github.com/Isaac-M-L/Biomechanics-Projects/tree/main/01-Cell%20Morphology) | Bioimaging | ImageJ / Fiji, MATLAB | Automated cell segmentation pipeline, circularity & area distribution modeling |
 | [**02. Cartilage Compression FEA**](./02-Cartilage-fea) | Non-Linear Solid Mechanics | FEBio Studio, PostView | 3D hyperelastic (Neo-Hookean) axial compression simulation under fixed platen restraints |
 | [**03. Sarcomere Kinematics**](./03-sarcomere-kinematics) | Muscle Mechanics & Modeling | MATLAB | Piecewise sliding filament theory & non-linear titin elasticity force curves |
 
